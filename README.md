@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @CameronBadman**
+  - I am currently a student at the University of Queensland studying Computer Science/ Commerce
+- 👀 I’m interested in:**
+  - web3 type programming 
+- 🌱 I’m currently learning:
+  - Java script (Mern stack, but planning to leave Angular and View afterwards) 
+  - Golang
+- 💞️ I’m looking to collaborate on:
+  - web3 interfaces and systems
+  - python financial data analysis
+  - geoimaging technology
+- 📫 How to reach me ...
+  - +610476056341
+  - cbadwork@gmail.com
