@@ -6,18 +6,12 @@
   - Golang app development
 
 - 🌱 I’m currently learning:
-  - perfecting my web developement
-  - selenium based tests 
+  - Nextjs
+  - selenium/playwright based testing in a ci/cd
   - Golang
   - looking into webkit technology
-
-- 💞️ I’m looking to collaborate on:
-  - financial data analysis technology 
-  - productivity technology
-  - website testing technology (and electron based testing technology)
-
 
 - 📫 How to reach me ...
   - +610476056341
   - cbadwork@gmail.com
-  - Linkedin
+  - [Linkedin](https://au.linkedin.com/in/cameron-badman-5314ba1b8)
