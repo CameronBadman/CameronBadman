@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in:**
   - front end web development (MERN & MEAN)
-  - Golang app development
+  - Golang backend Development
 
 - 🌱 I’m currently learning:
   - Nextjs
