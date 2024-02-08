@@ -9,9 +9,8 @@
   - Nextjs
   - selenium/playwright based testing in a ci/cd
   - Golang
-  - looking into webkit technology
 
 - 📫 How to reach me ...
-  - +610476056341
+  - +61476056341
   - cbadwork@gmail.com
   - [Linkedin](https://au.linkedin.com/in/cameron-badman-5314ba1b8)
