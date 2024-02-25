@@ -1,14 +1,19 @@
 - 👋 Hi, I’m @CameronBadman**
-  - I am currently a student at the University of Queensland studying Computer Science/ Commerce and a devops intern at Cyberloop.ai
+  - I am currently a student at the University of Queensland studying Computer Science/ Commerce
 
 - 👀 I’m interested in:**
-  - front end web development (MERN & MEAN)
-  - Golang backend Development
+  - React Native 
+  - Vue.js
+  - firebase
+  - supabase
 
 - 🌱 I’m currently learning:
   - Nextjs
-  - selenium/playwright based testing in a ci/cd
+  - React Native
+  - Rust
   - Golang
+  - firebase
+  - supabase
 
 - 📫 How to reach me ...
   - +61476056341
