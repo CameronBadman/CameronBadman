@@ -1,21 +1,18 @@
-- 👋 Hi, I’m @CameronBadman**
-  - I am currently a student at the University of Queensland studying Computer Science/ Commerce
+### 👋 Hi there, I'm Cameron Badman!
 
-- 👀 I’m interested in:**
-  - React Native 
-  - Vue.js
-  - firebase
-  - supabase
+I'm a passionate Computer Science and Commerce student at the University of Queensland, diving deep into the world of coding and finance.
 
-- 🌱 I’m currently learning:
-  - Nextjs
-  - React Native
-  - Rust
-  - Golang
-  - firebase
-  - supabase
+#### What I'm into:
+- 📱 **Mobile Development:** React Native for cross-platform brilliance.
+- 🌐 **Web Development:** Crafting dynamic user experiences with Vue.js.
+- 🔥 **Backend Magic:** Streamlining apps with Firebase and exploring the powers of Supabase.
 
-- 📫 How to reach me ...
-  - +61476056341
-  - cbadwork@gmail.com
-  - [Linkedin](https://au.linkedin.com/in/cameron-badman-5314ba1b8)
+#### Currently Learning:
+- ⚡ **Next.js:** Enhancing my React skills for more powerful, server-side rendered applications.
+- 🐹 **Golang:** Delving into the efficiency and simplicity of Golang for backend development.
+- 🔥 **Firebase:** Continuing to explore the depths of Firebase for comprehensive backend solutions.
+
+#### Contact me
+- 📞 **Phone:** +61476056341
+- 📧 **Email:** [cbadwork@gmail.com](mailto:cbadwork@gmail.com)
+- 🔗 **LinkedIn:** [Cameron Badman](https://au.linkedin.com/in/cameron-badman-5314ba1b8)
