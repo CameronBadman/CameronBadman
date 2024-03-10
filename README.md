@@ -5,7 +5,7 @@ I'm a passionate Computer Science and Commerce student at the University of Quee
 #### What I'm into:
 - 📱 **Mobile Development:** React Native for cross-platform brilliance.
 - 🌐 **Web Development:** Crafting dynamic user experiences with Vue.js.
-- 🔥 **Backend Magic:** Streamlining apps with Firebase and exploring the powers of Supabase.
+- 🔥 **Backend Magic:** Streamlining apps with Firebase 
 
 #### Currently Learning:
 - ⚡ **Next.js:** Enhancing my React skills for more powerful, server-side rendered applications.
