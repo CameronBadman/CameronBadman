@@ -1,16 +1,14 @@
 ### 👋 Hi there, I'm Cameron Badman!
 
-I'm a passionate Computer Science and Commerce student at the University of Queensland, diving deep into the world of coding and finance.
+I'm a passionate Computer Science and Commerce student at the University of Queensland
 
 #### What I'm into:
-- 📱 **Mobile Development:** React Native for cross-platform brilliance.
-- 🌐 **Web Development:** Crafting dynamic user experiences with Vue.js.
-- 🔥 **Backend Magic:** Streamlining apps with Firebase 
+- 📱 **Mobile Development:** React Native for cross-platform applcations
+- 🌐 **Web Development:** Crafting dynamic user experiences with Vue.js and React(Next)
 
 #### Currently Learning:
-- ⚡ **Next.js:** Enhancing my React skills for more powerful, server-side rendered applications.
-- 🐹 **Golang:** Delving into the efficiency and simplicity of Golang for backend development.
-- 🔥 **Firebase:** Continuing to explore the depths of Firebase for comprehensive backend solutions.
+- 🐹 **Golang and .net:** Furthering my craft of Rest API's in both .net ASP and Golang
+- 🌩 **Firebase  and AWS:** Learning the basics of microacrchitecutre and cloud computing to broaden my skillset
 
 #### Contact me
 - 📞 **Phone:** +61476056341
