@@ -7,7 +7,7 @@ I'm a passionate Computer Science and Commerce student at the University of Quee
 - **Web Development:** Crafting dynamic user experiences with Vue.js and React(Next)
 
 #### Currently Learning:
-- **Golang and .net:** Furthering my craft of Rest API's in both .net ASP and Golang
+- **Golang and .net:** Furthering my craft of Rest API's in both .net ASP and Golang Gin
 - **Firebase  and AWS:** Learning the basics of microacrchitecutre and cloud computing to broaden my skillset
 
 #### Contact me
