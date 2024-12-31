@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cameron Badman <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi-16.png" alt="arch" width="25" height="25"/></h1>
-<h3 align="center">Junior Devops Developer | <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi-16.png" alt="arch" width="20" height="20"/> Arch Linux User</h3>
+<h1 align="center">Hi 👋, I'm Cameron Badman <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch" width="25" height="25"/></h1>
+<h3 align="center">Junior Devops Developer | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch" width="20" height="20"/> Arch Linux User</h3>
 
 - 🔭 I'm currently working on [Canvas-collaboration-app](https://github.com/CameronBadman/Canvis-collab-webapp)
 
