@@ -1,147 +1,141 @@
-<h1 align="center">Hi 👋, I'm Cameron Badman
-<h3 align="center">Junior Devops Developer | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch" width="20" height="20"/> Arch Linux User</h3>
+# Hi 👋, I'm Cameron Badman
 
-- 🔭 I'm currently working on [Canvas-collaboration-app](https://github.com/CameronBadman/Canvis-collab-webapp)
+<div align="center">
+  
+**Junior DevOps Developer | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch" width="20" height="20"/> Arch Linux User**
 
-- 💬 Ask me about **Go, Docker, Kubernetes, Bash, Arch Linux**
+🔭 Working on [Canvas-collaboration-app](https://github.com/CameronBadman/Canvis-collab-webapp) | 💬 Ask me about **Go, Docker, Kubernetes, Bash, Arch Linux** | 📫 Reach me at **cbadwork@gmail.com**
 
-- 📫 How to reach me **cbadwork@gmail.com**
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20"/>](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cameron-badman-5314ba1b8/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron badman linkedin" height="30" width="40" />
-</a>
+</div>
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Programming
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
+</td>
+<td width="33%" valign="top">
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h4>Programming Languages</h4>
-<p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+### DevOps & Cloud
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 </p>
+</td>
+<td width="33%" valign="top">
 
-<h4>Cloud & DevOps</h4>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
+### Databases
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
 </p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-<h4>Databases</h4>
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-  </a>
+### Frontend
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
+</td>
+<td width="33%" valign="top">
 
-<h4>Frontend Development</h4>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+### Backend & Infrastructure
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
+</td>
+<td width="33%" valign="top">
 
-<h4>Backend & Infrastructure</h4>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
+### Tools & Others
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 </p>
+</td>
+</tr>
+</table>
 
-<h4>Tools & Others</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
 
-<!-- GitHub Stats Cards with theme switching -->
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cameronbadman&show_icons=true&locale=en&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cameronbadman&show_icons=true&locale=en&layout=compact&theme=light" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cameronbadman&show_icons=true&locale=en&layout=compact" alt="cameronbadman's most used languages" />
-</picture>
+<!-- GitHub Stats -->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <!-- Most Used Languages -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cameronbadman&show_icons=true&locale=en&layout=compact&theme=dark&card_width=320"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cameronbadman&show_icons=true&locale=en&layout=compact&theme=light&card_width=320"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=cameronbadman&show_icons=true&locale=en&layout=compact&card_width=320"
+      alt="cameronbadman's most used languages"
+    />
+  </picture>
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&locale=en&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&locale=en&theme=light" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&locale=en" alt="cameronbadman's github stats" />
-</picture>
+  <!-- GitHub Stats -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&locale=en&theme=dark&hide=contribs&card_width=320"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&locale=en&theme=light&hide=contribs&card_width=320"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&locale=en&hide=contribs&card_width=320"
+      alt="cameronbadman's github stats"
+    />
+  </picture>
+</div>
 
-<picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman" alt="cameronbadman's streak stats" />
-</picture>
+<!-- Streak Stats (Full Width) -->
+<div style="margin-top: 20px;">
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&theme=dark&card_width=800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&theme=default&card_width=800"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&card_width=800"
+      alt="cameronbadman's streak stats"
+    />
+  </picture>
+</div>
+
+</div>
