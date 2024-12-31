@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Cameron Badman!
 
+<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 I'm a passionate Computer Science and Commerce student at the University of Queensland
 
 #### What I'm into:
