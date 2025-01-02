@@ -6,9 +6,26 @@
 
 🔭 Working on [Canvas-collaboration-app](https://github.com/CameronBadman/Canvis-collab-webapp) | 💬 Ask me about **Go, Docker, Kubernetes, Bash, Arch Linux** | 📫 Reach me at **cbadwork@gmail.com**
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20"/>](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
+
+[![GitHub followers](https://img.shields.io/github/followers/cameronbadman?logo=GitHub&style=for-the-badge)](https://github.com/cameronbadman)
+[![GitHub Stars](https://img.shields.io/github/stars/cameronbadman?logo=github&style=for-the-badge)](https://github.com/cameronbadman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=cameronbadman&color=blue&style=for-the-badge)
 
 </div>
+
+## 🚀 Featured Projects
+
+### [Canvas Collaboration App](https://github.com/CameronBadman/Canvis-collab-webapp)
+A real-time collaborative canvas application built with React and Go
+- 💻 Tech Stack: React, Go, WebSocket, Docker
+- ✨ Features: Real-time collaboration, persistent storage, user authentication
 
 <h2 align="center">Tech Stack</h2>
 
@@ -83,9 +100,9 @@
 </tr>
 </table>
 
-<div align="center">
+## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
+<div align="center">
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <!-- Most Used Languages -->
   <picture>
@@ -120,22 +137,43 @@
   </picture>
 </div>
 
-<!-- Streak Stats (Full Width) -->
-<div style="margin-top: 20px;">
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&theme=dark&card_width=800"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&theme=default&card_width=800"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&card_width=800"
-      alt="cameronbadman's streak stats"
-    />
-  </picture>
-</div>
+<!-- Streak Stats -->
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&theme=dark&card_width=800"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&theme=default&card_width=800"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&card_width=800"
+    alt="cameronbadman's streak stats"
+  />
+</picture>
+
+<!-- Activity Graph -->
+<picture>
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=github-dark&area=true&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=minimal&area=true&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=minimal&area=true&hide_border=true" alt="Cameron's activity graph"/>
+</picture>
 
 </div>
+
+## 🌱 Currently Learning
+- Advanced Kubernetes Patterns
+- Cloud Native Architecture
+- Infrastructure as Code with Terraform
+
+## 📫 How to Reach Me
+- LinkedIn: [cameron-badman](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
+- Email: cbadwork@gmail.com
+- GitHub: [@cameronbadman](https://github.com/cameronbadman)
