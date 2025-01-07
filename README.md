@@ -24,7 +24,7 @@
 
 </div>
 
-## 📚 Skills
+## 📚 Tech that I have used
 
 <table>
 <tr>
