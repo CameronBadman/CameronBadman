@@ -184,13 +184,6 @@ A real-time collaborative canvas application built with React and Go
 
 </div>
 
-## 🌱 Currently Learning
-- Advanced Kubernetes Patterns
-- Cloud Native Architecture
-- Infrastructure as Code with Terraform
-- Service Mesh with Istio
-- GitOps with ArgoCD
-
 ## 📫 How to Reach Me
 - LinkedIn: [cameron-badman](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
 - Email: cbadwork@gmail.com
