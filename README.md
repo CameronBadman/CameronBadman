@@ -1,190 +1,78 @@
-# Hi 👋, I'm Cameron Badman
+# Hi there, I'm Cameron Badman 👋
 
 <div align="center">
 
-**Junior DevOps Developer | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch" width="20" height="20"/> Arch Linux User**
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org)
 
-[📚 Skills](#-skills) | [🚀 Projects](#-featured-projects) | [📊 Stats](#-github-stats) | [📫 Contact](#-how-to-reach-me)
+Junior DevOps Developer passionate about cloud-native technologies and automation
 
-🔭 Working on [Canvas-collaboration-app](https://github.com/CameronBadman/Canvis-collab-webapp) | 💬 Ask me about **Go, Docker, Kubernetes, Bash, Arch Linux** | 📫 Reach me at **cbadwork@gmail.com**
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-[![GitHub followers](https://img.shields.io/github/followers/cameronbadman?logo=GitHub&style=for-the-badge)](https://github.com/cameronbadman)
-[![GitHub Stars](https://img.shields.io/github/stars/cameronbadman?logo=github&style=for-the-badge)](https://github.com/cameronbadman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=cameronbadman&color=blue&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/cameronbadman?logo=GitHub&style=flat-square)](https://github.com/cameronbadman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
+[![Profile Views](https://komarev.com/ghpvc/?username=cameronbadman&color=blue&style=flat-square)](https://github.com/cameronbadman)
 
 </div>
 
-## 📚 Tech that I have used
+## 🚀 Current Focus
 
-<table>
-<tr>
-<td width="25%" valign="top">
+- 🔭 Building a [Canvas Collaboration App](https://github.com/CameronBadman/Canvis-collab-webapp)
+- 🌱 Deepening my knowledge in Go, Kubernetes, and Cloud Architecture
+- 💬 Open to discussing **Cloud Native, DevOps, and Infrastructure as Code**
 
-### Languages
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-</p>
-</td>
-<td width="25%" valign="top">
+## 💻 Tech Stack
 
-### DevOps & Container Orchestration
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-</p>
-</td>
-<td width="25%" valign="top">
+### Infrastructure & DevOps
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
 
-### Frontend & Web
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
-</p>
-</td>
-<td width="25%" valign="top">
+### Languages & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Monitoring & Observability
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="25%" valign="top">
+### Monitoring & Tools
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### Cloud Platforms
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-</p>
-</td>
-<td width="25%" valign="top">
-
-### CI/CD & Version Control
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</p>
-</td>
-<td width="25%" valign="top">
-
-### Databases
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-</p>
-</td>
-<td width="25%" valign="top">
-
-### Tools & Others
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
-</td>
-</tr>
-</table>
-
-## 🚀 Featured Projects
+## 🎯 Featured Projects
 
 ### [Canvas Collaboration App](https://github.com/CameronBadman/Canvis-collab-webapp)
-A real-time collaborative canvas application built with React and Go
-- 💻 Tech Stack: React, Go, WebSocket, Docker
-- ✨ Features: Real-time collaboration, persistent storage, user authentication
+A real-time collaborative canvas application built with modern technologies
+- 🔧 **Tech Stack**: React, Go, WebSocket, Docker
+- ⭐ **Features**: Real-time collaboration, persistent storage, user authentication
+- 🚀 **Status**: Actively developing
+
+## ⚡ Development Environment
+
+<div align="center">
+
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/CameronBadman/nvim-config)
+[![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)](https://github.com/CameronBadman/tmux-dotfiles)
+[![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)](https://github.com/alacritty/alacritty)
+
+</div>
+
+- 🐧 **OS**: Arch Linux
+- 📟 **Terminal**: Alacritty + Tmux
+- ⌨️ **Editor**: [Customized Neovim](https://github.com/CameronBadman/nvim-config)
+- 🔧 **Dotfiles**: [Tmux Configuration](https://github.com/CameronBadman/tmux-dotfiles)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  
-<!-- Most Used Languages -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cameronbadman&show_icons=true&locale=en&layout=compact&theme=dark&card_width=320"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cameronbadman&show_icons=true&locale=en&layout=compact&theme=light&card_width=320"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cameronbadman&show_icons=true&locale=en&layout=compact&card_width=320"
-    alt="cameronbadman's most used languages"
-  />
-</picture>
-
-<!-- GitHub Stats -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&locale=en&theme=dark&hide=contribs&card_width=320"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&locale=en&theme=light&hide=contribs&card_width=320"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&locale=en&hide=contribs&card_width=320"
-    alt="cameronbadman's github stats"
-  />
-</picture>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&theme=tokyonight&hide=contribs" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbadman&layout=compact&theme=tokyonight" />
 </div>
 
-<!-- Streak Stats -->
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&theme=dark&card_width=800"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&theme=default&card_width=800"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=cameronbadman&card_width=800"
-    alt="cameronbadman's streak stats"
-  />
-</picture>
+## 📫 Get in Touch
 
-<!-- Activity Graph -->
-<picture>
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=github-dark&area=true&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=minimal&area=true&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=minimal&area=true&hide_border=true" alt="Cameron's activity graph"/>
-</picture>
-
-</div>
-
-## 📫 How to Reach Me
-- LinkedIn: [cameron-badman](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
-- Email: cbadwork@gmail.com
-- GitHub: [@cameronbadman](https://github.com/cameronbadman)
+- 💼 LinkedIn: [cameron-badman](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
+- 📧 Email: cbadwork@gmail.com
+- 🌐 GitHub: [@cameronbadman](https://github.com/cameronbadman)
