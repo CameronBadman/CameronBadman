@@ -63,7 +63,6 @@ Junior DevOps Developer passionate about cloud-native technologies and automatio
 ### Monitoring & Observability
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
 </p>
 </td>
 </tr>
