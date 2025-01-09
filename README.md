@@ -21,6 +21,7 @@ Junior DevOps Developer passionate about cloud-native technologies and automatio
 - 🔭 Building a [Canvas Collaboration App](https://github.com/CameronBadman/Canvis-collab-webapp)
 - 🌱 Deepening my knowledge in Go, Kubernetes, and Cloud Architecture
 - 💬 Open to discussing **Cloud Native, DevOps, and Infrastructure as Code**
+- 🔧 Exploring [NixOS](https://nixos.org/) for reproducible system configuration
 
 ## 💻 Tech Stack
 
@@ -62,7 +63,7 @@ A real-time collaborative canvas application built with modern technologies
 - 🐧 **OS**: Arch Linux
 - 📟 **Terminal**: Alacritty + Tmux
 - ⌨️ **Editor**: [Neovim](https://github.com/CameronBadman/nvim-config)
-- 🔧 **Dotfiles**: [Tmux Configuration](https://github.com/CameronBadman/tmux-dotfiles)
+- 🔧 **Dotfiles**: [Tmux](https://github.com/CameronBadman/tmux-dotfiles)
 
 ## 📊 GitHub Stats
 
