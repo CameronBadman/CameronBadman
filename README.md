@@ -136,9 +136,7 @@ A real-time collaborative canvas application built with modern technologies
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&theme=tokyonight&hide=contribs" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbadman&layout=compact&theme=tokyonight" />
-<img height="150px" src="https://streak-stats.demolab.com?user=cameronbadman&theme=tokyonight" />
 
-  
 [![Cameron's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=tokyo-night)](https://github.com/cameronbadman/github-readme-activity-graph)
 
 
