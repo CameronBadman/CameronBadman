@@ -137,11 +137,6 @@ A real-time collaborative canvas application built with modern technologies
 - ⌨️ **Editor**: [Customized Neovim](https://github.com/CameronBadman/nvim-config)
 - 🔧 **Dotfiles**: [Tmux Configuration](https://github.com/CameronBadman/tmux-dotfiles)
 
-- 🐧 **OS**: Arch Linux
-- 📟 **Terminal**: Alacritty + Tmux
-- ⌨️ **Editor**: [Customized Neovim](https://github.com/CameronBadman/nvim-config)
-- 🔧 **Dotfiles**: [Tmux Configuration](https://github.com/CameronBadman/tmux-dotfiles)
-
 ## 📊 GitHub Stats
 
 <div align="center">
