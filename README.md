@@ -6,13 +6,18 @@
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)](https://nixos.org)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)](https://helm.sh/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
 
 Junior DevOps Developer passionate about cloud-native technologies and automation
 
 [![GitHub followers](https://img.shields.io/github/followers/cameronbadman?logo=GitHub&style=flat-square)](https://github.com/cameronbadman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
 [![Profile Views](https://komarev.com/ghpvc/?username=cameronbadman&color=blue&style=flat-square)](https://github.com/cameronbadman)
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=google-chrome)](https://your-website-url)
+[![Blog](https://img.shields.io/badge/Blog-Tech_Articles-orange?style=flat-square&logo=hashnode)](https://your-blog-url)
 
 </div>
 
