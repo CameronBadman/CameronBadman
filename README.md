@@ -15,8 +15,6 @@ Junior DevOps Developer passionate about cloud-native technologies and automatio
 [![GitHub followers](https://img.shields.io/github/followers/cameronbadman?logo=GitHub&style=flat-square)](https://github.com/cameronbadman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
 [![Profile Views](https://komarev.com/ghpvc/?username=cameronbadman&color=blue&style=flat-square)](https://github.com/cameronbadman)
-[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=google-chrome)](https://your-website-url)
-[![Blog](https://img.shields.io/badge/Blog-Tech_Articles-orange?style=flat-square&logo=hashnode)](https://your-blog-url)
 
 </div>
 
