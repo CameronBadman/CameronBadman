@@ -122,17 +122,17 @@ A real-time collaborative canvas application built with modern technologies
 
 <div align="center">
 
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/CameronBadman/nvim-config)
-[![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)](https://github.com/CameronBadman/tmux-dotfiles)
-[![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)](https://github.com/alacritty/alacritty)
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org)
+[![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/CameronBadman/nvim-config)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://github.com/CameronBadman/Nixos-config)
 
 </div>
 
-- 🐧 **OS**: NixOS
-- 📟 **Terminal**: Alacritty + Tmux
+- 🐧 **OS**: [NixOS Configuration](https://github.com/CameronBadman/Nixos-config) - Complete system configuration including:
+  - Terminal emulator (Alacritty)
+  - Multiplexer (Tmux)
+  - System packages
+  - Development tools
 - ⌨️ **Editor**: [Customized Neovim](https://github.com/CameronBadman/nvim-config)
-- 🔧 **Dotfiles**: [Tmux Configuration](https://github.com/CameronBadman/tmux-dotfiles)
 
 ## 📊 GitHub Stats
 
