@@ -20,7 +20,10 @@ Junior DevOps Developer passionate about cloud-native technologies and automatio
 
 ## 🧠 LeetCode Progress
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=C4meron_B4dman&theme=dark)
+![LeetCode Stats](https://i.imgur.com/your-image-id.png)  
+*Note: Stats are updated manually. Last updated: [Insert Date]*
+
+[Visit my LeetCode profile](https://leetcode.com/u/C4meron_B4dman/)
 
 ## 🚀 Current Focus
 
