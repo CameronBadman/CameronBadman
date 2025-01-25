@@ -18,13 +18,6 @@ Junior DevOps Developer passionate about cloud-native technologies and automatio
 
 </div>
 
-## 🧠 LeetCode Progress
-
-![LeetCode Stats](https://i.imgur.com/your-image-id.png)  
-*Note: Stats are updated manually. Last updated: [Insert Date]*
-
-[Visit my LeetCode profile](https://leetcode.com/u/C4meron_B4dman/)
-
 ## 🚀 Current Focus
 
 - 🔭 Building a [Canvas Collaboration App](https://github.com/CameronBadman/Canvis-collab-webapp)
