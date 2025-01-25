@@ -18,6 +18,10 @@ Junior DevOps Developer passionate about cloud-native technologies and automatio
 
 </div>
 
+## 🧠 LeetCode Progress
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=C4meron_B4dman&theme=dark)](https://leetcode.com/C4meron_B4dman/)
+
 ## 🚀 Current Focus
 
 - 🔭 Building a [Canvas Collaboration App](https://github.com/CameronBadman/Canvis-collab-webapp)
@@ -141,7 +145,6 @@ A real-time collaborative canvas application built with modern technologies
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbadman&layout=compact&theme=tokyonight" />
 
 [![Cameron's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=tokyo-night)](https://github.com/cameronbadman/github-readme-activity-graph)
-
 
 </div>
 
