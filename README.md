@@ -126,8 +126,8 @@ A virtual machine implementation of the LC-3 architecture
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CameronBadman&repo=LC-3-VM)](https://github.com/CameronBadman/LC-3-VM)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CameronBadman&repo=Canvis-collab-webapp)](https://github.com/CameronBadman/Canvis-collab-webapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CameronBadman&repo=LC-3-VM&theme=tokyonight)](https://github.com/CameronBadman/LC-3-VM)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CameronBadman&repo=Canvis-collab-webapp&theme=tokyonight)](https://github.com/CameronBadman/Canvis-collab-webapp)
 
 ## ⚡ Development Environment
 
