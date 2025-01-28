@@ -118,6 +118,17 @@ A real-time collaborative canvas application built with modern technologies
 - ⭐ **Features**: Real-time collaboration, persistent storage, user authentication
 - 🚀 **Status**: Actively developing
 
+### [LC-3 Virtual Machine](https://github.com/CameronBadman/LC-3-VM)
+A virtual machine implementation of the LC-3 architecture
+- 🔧 **Tech Stack**: C
+- ⭐ **Features**: LC-3 instruction set, memory management, I/O handling
+- 🚀 **Status**: Completed
+
+## 📌 Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CameronBadman&repo=LC-3-VM)](https://github.com/CameronBadman/LC-3-VM)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CameronBadman&repo=Canvis-collab-webapp)](https://github.com/CameronBadman/Canvis-collab-webapp)
+
 ## ⚡ Development Environment
 
 <div align="center">
