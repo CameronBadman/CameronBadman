@@ -10,7 +10,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)](https://helm.sh/)
 
-Junior DevOps Developer passionate about cloud-native technologies and automation
+Junior DevOps Developer passionate about cloud-native technologies, automation, 
 
 [![GitHub followers](https://img.shields.io/github/followers/cameronbadman?logo=GitHub&style=flat-square)](https://github.com/cameronbadman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cameron-badman-5314ba1b8/)
