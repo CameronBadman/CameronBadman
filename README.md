@@ -145,11 +145,14 @@ A virtual machine implementation of the LC-3 architecture
   - Development tools
 - ⌨️ **Editor**: [Customized Neovim](https://github.com/CameronBadman/nvim-config)
 
-## 📊 GitHub Stats
+Copy## 📊 GitHub Stats
 
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&theme=tokyonight&hide=contribs" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbadman&layout=compact&theme=tokyonight" />
+
+<!-- Add this line for the streak stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cameronbadman&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Cameron's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=tokyo-night)](https://github.com/cameronbadman/github-readme-activity-graph)
 
