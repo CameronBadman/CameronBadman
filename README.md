@@ -27,8 +27,6 @@ Junior DevOps Developer passionate about cloud-native technologies and automatio
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 <table>
 <tr>
 <td width="25%" valign="top">
@@ -50,7 +48,7 @@ Junior DevOps Developer passionate about cloud-native technologies and automatio
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="eks" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/aws-eks.svg" alt="eks" width="40" height="40"/>
 </p>
 </td>
 <td width="25%" valign="top">
@@ -78,7 +76,7 @@ Junior DevOps Developer passionate about cloud-native technologies and automatio
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="cognito" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/aws-cognito.svg" alt="cognito" width="40" height="40"/>
 </p>
 </td>
 <td width="25%" valign="top">
@@ -99,7 +97,7 @@ Junior DevOps Developer passionate about cloud-native technologies and automatio
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original-wordmark.svg" alt="cassandra" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="neo4j" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="dynamodb" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/aws-dynamodb.svg" alt="dynamodb" width="40" height="40"/>
 </p>
 </td>
 <td width="25%" valign="top">
