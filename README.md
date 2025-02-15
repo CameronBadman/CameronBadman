@@ -145,8 +145,6 @@ A virtual machine implementation of the LC-3 architecture
 - 🐧 **OS**: [NixOS Configuration](https://github.com/CameronBadman/Nixos-config) - Complete system configuration including:
   - Terminal emulator (Alacritty)
   - Multiplexer (Tmux)
-  - System packages
-  - Development tools
 - ⌨️ **Editor**: [Customized Neovim](https://github.com/CameronBadman/nvim-config)
 
 Copy## 📊 GitHub Stats
