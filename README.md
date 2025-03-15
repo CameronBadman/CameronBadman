@@ -23,7 +23,7 @@ Junior DevOps Developer working on cloud-native technologies and automation
 - 🔭 Building a [Canvas Collaboration App](https://github.com/CameronBadman/Canvis-collab-webapp)
 - 🌱 Deepening my knowledge in Go, Kubernetes, and Cloud Architecture
 - 💬 Open to discussing **Cloud Native, DevOps, and Infrastructure as Code**
-- 🔧 Exploring [NixOS](https://nixos.org/) for reproducible system configuration
+- 🔧 Exploring [NixOS](https://nixos.org/)
 
 ## 💻 Tech Stack
 
