@@ -48,7 +48,6 @@ Junior DevOps Developer working on cloud-native technologies and automation
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/aws-eks.svg" alt="eks" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/aws-cloudformation.svg" alt="cloudformation" width="40" height="40"/>
 </p>
 </td>
 <td width="25%" valign="top">
