@@ -3,6 +3,8 @@
 <div align="center">
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?style=flat-square&logo=gleam&logoColor=black)](https://gleam.run)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
@@ -20,8 +22,7 @@ Junior DevOps Developer working on cloud-native technologies and automation
 
 ## 🚀 Current Focus
 
-- 🔭 Building a [Canvas Collaboration App](https://github.com/CameronBadman/Canvis-collab-webapp)
-- 🌱 Deepening my knowledge in Go, Kubernetes, and Cloud Architecture
+- 🌱 Deepening my knowledge in Go, Rust, Gleam, Kubernetes, and Cloud Architecture
 - 💬 Open to discussing **Cloud Native, DevOps, and Infrastructure as Code**
 - 🔧 Exploring [NixOS](https://nixos.org/)
 
@@ -34,6 +35,8 @@ Junior DevOps Developer working on cloud-native technologies and automation
 ### Languages
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+<img src="https://gleam.run/images/lucy/lucy.svg" alt="gleam" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -109,25 +112,6 @@ Junior DevOps Developer working on cloud-native technologies and automation
 </tr>
 </table>
 
-## 🎯 Featured Projects
-
-### [Canvas Collaboration App](https://github.com/CameronBadman/Canvis-collab-webapp)
-A real-time collaborative canvas application built with modern technologies
-- 🔧 **Tech Stack**: React, Go, WebSocket, Docker
-- ⭐ **Features**: Real-time collaboration, persistent storage, user authentication
-- 🚀 **Status**: Actively developing
-
-### [LC-3 Virtual Machine](https://github.com/CameronBadman/LC-3-VM)
-A virtual machine implementation of the LC-3 architecture
-- 🔧 **Tech Stack**: C
-- ⭐ **Features**: LC-3 instruction set, memory management, I/O handling
-- 🚀 **Status**: Completed
-
-## 📌 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CameronBadman&repo=LC-3-VM&theme=tokyonight)](https://github.com/CameronBadman/LC-3-VM)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CameronBadman&repo=Canvis-collab-webapp&theme=tokyonight)](https://github.com/CameronBadman/Canvis-collab-webapp)
-
 ## ⚡ Development Environment
 
 <div align="center">
@@ -142,7 +126,7 @@ A virtual machine implementation of the LC-3 architecture
   - Multiplexer (Tmux)
 - ⌨️ **Editor**: [Customized Neovim](https://github.com/CameronBadman/nvim-config)
 
-Copy## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&theme=tokyonight&hide=contribs" />
