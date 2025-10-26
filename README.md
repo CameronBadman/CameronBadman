@@ -20,7 +20,7 @@ Junior DevOps Developer working on cloud-native technologies and automation
 
 </div>
 
-## 🚀 Current Focus
+## Current Focus
 
 - 🌱 Deepening my knowledge in Go, Rust, Gleam, Kubernetes, and Cloud Architecture
 - 💬 Open to discussing **Cloud Native, DevOps, and Infrastructure as Code**
