@@ -9,6 +9,7 @@
 [![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)](https://nixos.org)
+[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)](https://www.gentoo.org/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)](https://helm.sh/)
 
@@ -24,7 +25,7 @@ Junior DevOps Developer working on cloud-native technologies and automation
 
 - 🌱 Deepening my knowledge in Go, Rust, Gleam, Kubernetes, and Cloud Architecture
 - 💬 Open to discussing **Cloud Native, DevOps, and Infrastructure as Code**
-- 🔧 Exploring [NixOS](https://nixos.org/)
+- 🔧 Running [Gentoo](https://www.gentoo.org/) + [Nix](https://nixos.org/)
 
 ## 💻 Tech Stack
 
@@ -58,8 +59,6 @@ Junior DevOps Developer working on cloud-native technologies and automation
 ### Frontend & Web
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
 </p>
 </td>
@@ -85,7 +84,6 @@ Junior DevOps Developer working on cloud-native technologies and automation
 
 ### CI/CD & Version Control
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 </td>
@@ -95,7 +93,6 @@ Junior DevOps Developer working on cloud-native technologies and automation
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original-wordmark.svg" alt="cassandra" width="40" height="40"/>
 <img src="https://cdn.svgporn.com/logos/aws-dynamodb.svg" alt="dynamodb" width="40" height="40"/>
 </p>
 </td>
@@ -112,27 +109,12 @@ Junior DevOps Developer working on cloud-native technologies and automation
 </tr>
 </table>
 
-## ⚡ Development Environment
-
-<div align="center">
-
-[![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/CameronBadman/nvim-config)
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://github.com/CameronBadman/Nixos-config)
-
-</div>
-
-- 🐧 **OS**: [NixOS Configuration](https://github.com/CameronBadman/Nixos-config) - Complete system configuration including:
-  - Terminal emulator (Alacritty)
-  - Multiplexer (Tmux)
-- ⌨️ **Editor**: [Customized Neovim](https://github.com/CameronBadman/nvim-config)
-
 ## 📊 GitHub Stats
 
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=cameronbadman&show_icons=true&theme=tokyonight&hide=contribs" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronbadman&layout=compact&theme=tokyonight" />
 
-<!-- Add this line for the streak stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cameronbadman&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Cameron's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=tokyo-night)](https://github.com/cameronbadman/github-readme-activity-graph)
