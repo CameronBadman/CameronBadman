@@ -21,12 +21,6 @@ Junior DevOps Developer working on cloud-native technologies and automation
 
 </div>
 
-## Current Focus
-
-- 🌱 Deepening my knowledge in Go, Rust, Gleam, Kubernetes, and Cloud Architecture
-- 💬 Open to discussing **Cloud Native, DevOps, and Infrastructure as Code**
-- 🔧 Running [Gentoo](https://www.gentoo.org/) + [Nix](https://nixos.org/)
-
 ## 💻 Tech Stack
 
 <table>
@@ -36,11 +30,10 @@ Junior DevOps Developer working on cloud-native technologies and automation
 ### Languages
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
 <img src="https://gleam.run/images/lucy/lucy.svg" alt="gleam" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </p>
 </td>
 <td width="25%" valign="top">
@@ -51,7 +44,7 @@ Junior DevOps Developer working on cloud-native technologies and automation
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-<img src="https://cdn.svgporn.com/logos/aws-eks.svg" alt="eks" width="40" height="40"/>
+<img src="https://cdn.svgporn.com/logos/aws-ecs.svg" alt="ecs" width="40" height="40"/>
 </p>
 </td>
 <td width="25%" valign="top">
