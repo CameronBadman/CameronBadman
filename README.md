@@ -51,7 +51,6 @@ Software Engineer working on Cloud and Collaboration technology
 ### Frontend & Web
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
 </p>
 </td>
 <td width="25%" valign="top">
