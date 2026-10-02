@@ -19,3 +19,5 @@ A couple of projects I'm working on:
 - [Hippocampus-1.3](https://github.com/CameronBadman/Hippocampus-1.3) — Ongoing research into graph memory and retrieval, exploring how a learned model can decide which nodes to visit when searching a graph. The current Rust implementation includes the traversal engine, model training and evaluation tools. It's still a work in progress.
 
 [LinkedIn](https://www.linkedin.com/in/cameron-badman-5314ba1b8/) · [Email](mailto:cbadwork@gmail.com) · [GitHub](https://github.com/cameronbadman)
+
+[![Cameron's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cameronbadman&theme=tokyo-night)](https://github.com/cameronbadman/github-readme-activity-graph)
